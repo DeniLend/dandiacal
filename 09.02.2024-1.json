@@ -1,0 +1,25 @@
+{
+    "name": "Charles Wright",
+    "age": 3,
+    "address": {
+        "street": "Bishop Land",
+        "city": "South Samanthamouth",
+        "state": "Kentucky",
+        "zip": "49967"
+    },
+    "contact": {
+        "phone": "(757)541-1417x5939",
+        "servicePhone": "800950593"
+    },
+    "birthday": "2022-27-11",
+    "ip": "79.60.71.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Beyond health end job common theory forget. Conference different down while commercial. Particularly either allow minute couple include. Wrong defense eight stop why sort affect.",
+        "bio": "Through success rock somebody water. Interview look surface offer adult single. Item put live myself.\nPublic local show. Home since blue finally individual note guess ago. But with debate travel."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
