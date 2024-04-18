@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Simmons PhD",
+    "age": 41,
+    "address": {
+        "street": "Holly Inlet",
+        "city": "Harrisstad",
+        "state": "Arizona",
+        "zip": "61536"
+    },
+    "contact": {
+        "phone": "001-882-751-6836x58285",
+        "servicePhone": "800329481"
+    },
+    "birthday": "1984-09-05",
+    "ip": "20.64.171.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Ball still city certainly. Deal reflect whose like describe.\nKnow news item think management under or. Term buy put marriage force history effect. More stay wide.",
+        "bio": "Sit thus control country gas. Interest impact ask. Method two big wind do.\nNearly yes religious red. Call believe court piece.\nStandard water discussion yard."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
