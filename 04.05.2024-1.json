@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Chavez",
+    "age": 36,
+    "address": {
+        "street": "Trujillo Rest",
+        "city": "South Kristenport",
+        "state": "Idaho",
+        "zip": "59487"
+    },
+    "contact": {
+        "phone": "001-433-849-5626x0160",
+        "servicePhone": "800766492"
+    },
+    "birthday": "1989-11-12",
+    "ip": "71.100.253.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Tax program wind threat citizen. Mean away happy join medical near situation section. Memory agree worry foot. Ready contain way case to.",
+        "bio": "Central either evidence song different often bit very. People best actually Democrat."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
