@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Walker",
+    "age": 75,
+    "address": {
+        "street": "Harvey Mountains",
+        "city": "North David",
+        "state": "Idaho",
+        "zip": "86722"
+    },
+    "contact": {
+        "phone": "639-268-5299",
+        "servicePhone": "800913770"
+    },
+    "birthday": "1950-18-12",
+    "ip": "53.241.227.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Believe will wear effect rise campaign. Site seek provide. Figure become require teacher.",
+        "bio": "Discuss country standard opportunity decision. Tough author member. Finally piece tough through."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
