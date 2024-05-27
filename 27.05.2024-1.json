@@ -1,0 +1,25 @@
+{
+    "name": "Shelley Thompson",
+    "age": 97,
+    "address": {
+        "street": "Cain Expressway",
+        "city": "New Thomas",
+        "state": "Colorado",
+        "zip": "74457"
+    },
+    "contact": {
+        "phone": "001-392-909-8467",
+        "servicePhone": "800173003"
+    },
+    "birthday": "1928-06-10",
+    "ip": "91.71.122.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Office grow end after investment need. Himself focus if practice thousand.\nRise administration culture candidate leader reflect. Again whatever traditional seem senior follow.",
+        "bio": "World lawyer wall assume personal. Exist institution teach try region dinner.\nFoot feel hotel require itself us computer. Without its allow."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
