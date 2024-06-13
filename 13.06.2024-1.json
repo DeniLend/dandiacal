@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Callahan",
+    "age": 20,
+    "address": {
+        "street": "Natalie Street",
+        "city": "Sanchezport",
+        "state": "Connecticut",
+        "zip": "84005"
+    },
+    "contact": {
+        "phone": "9614273984",
+        "servicePhone": "800249428"
+    },
+    "birthday": "2005-18-10",
+    "ip": "192.115.25.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Especially black support language. Pull yourself claim whole lay.\nAlong agency under situation deep indeed positive thus. Outside make property great.",
+        "bio": "Public remain player woman. May human only another note box. Act begin raise successful."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
