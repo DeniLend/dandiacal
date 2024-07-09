@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Baker",
+    "age": 50,
+    "address": {
+        "street": "Katelyn Springs",
+        "city": "West Stephen",
+        "state": "Louisiana",
+        "zip": "20033"
+    },
+    "contact": {
+        "phone": "942-668-7739",
+        "servicePhone": "800709789"
+    },
+    "birthday": "1975-10-04",
+    "ip": "61.154.235.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Air especially occur though anyone. Long drive east statement follow. Third stop with less only week.\nTerm professor current. Bad far act four build.",
+        "bio": "With least administration single side head. Decision among who save account capital."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
