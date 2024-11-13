@@ -1,0 +1,25 @@
+{
+    "name": "Mary Kelly",
+    "age": 57,
+    "address": {
+        "street": "Alexandra Canyon",
+        "city": "Jameschester",
+        "state": "South Carolina",
+        "zip": "30211"
+    },
+    "contact": {
+        "phone": "400-810-8236",
+        "servicePhone": "800758885"
+    },
+    "birthday": "1968-10-11",
+    "ip": "172.148.94.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship share three miss worker ok manage manager.\nView huge dark thank process. Treat use away. Call game election measure only.",
+        "bio": "Case time notice. South have recognize baby say today. Common explain tough enjoy notice so rule."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
