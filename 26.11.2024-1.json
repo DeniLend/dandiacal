@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Mcdaniel",
+    "age": 44,
+    "address": {
+        "street": "Garza Overpass",
+        "city": "East Tammy",
+        "state": "North Dakota",
+        "zip": "86117"
+    },
+    "contact": {
+        "phone": "263-935-6236",
+        "servicePhone": "800092234"
+    },
+    "birthday": "1981-25-05",
+    "ip": "114.247.233.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Protect teacher hold environmental. Cut attack degree lead message inside civil. Response future expert sit how society move.",
+        "bio": "Start than huge now best peace else leg.\nAgree scene its. Against fight describe. Itself rich maintain employee summer."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
