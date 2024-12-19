@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Michael",
+    "age": 27,
+    "address": {
+        "street": "Berry Canyon",
+        "city": "Jessicaside",
+        "state": "Nevada",
+        "zip": "76630"
+    },
+    "contact": {
+        "phone": "001-413-557-0625x47563",
+        "servicePhone": "800226006"
+    },
+    "birthday": "1998-02-10",
+    "ip": "98.178.57.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Particularly believe fly although benefit hair. Material free sea either risk report. Meet floor choose that.\nWorry exactly boy three else.",
+        "bio": "When music religious experience strong skill series. Serious food note worry feel provide professor. Very yeah everybody include head shake language."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
