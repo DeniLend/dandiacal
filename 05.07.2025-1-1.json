@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Roth",
+    "age": 53,
+    "address": {
+        "street": "Dean Ferry",
+        "city": "Lake Jonathan",
+        "state": "Connecticut",
+        "zip": "84824"
+    },
+    "contact": {
+        "phone": "+1-579-252-0479",
+        "servicePhone": "800971889"
+    },
+    "birthday": "1972-17-02",
+    "ip": "126.181.158.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect effort central pull agency describe bit.\nSometimes sort foreign answer pass side city. House happy energy four note.",
+        "bio": "Their someone enough involve ball manager police. Information change over manage become.\nHour win increase site change."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
