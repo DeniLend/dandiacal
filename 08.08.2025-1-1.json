@@ -1,0 +1,25 @@
+{
+    "name": "Kristie Gregory",
+    "age": 36,
+    "address": {
+        "street": "Frazier Drive",
+        "city": "West Deannaburgh",
+        "state": "Wyoming",
+        "zip": "78398"
+    },
+    "contact": {
+        "phone": "541.458.1012x21517",
+        "servicePhone": "800790226"
+    },
+    "birthday": "1989-22-02",
+    "ip": "75.3.55.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Gas list individual together season. Even truth friend begin college. Him to bed technology.\nSpecial worry way thank water develop.\nWithout us lose rate watch minute.",
+        "bio": "List face home total reason around two. Training result soon assume. Allow this guy son.\nFill group case. Others notice significant central kitchen. Foot civil such apply."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
