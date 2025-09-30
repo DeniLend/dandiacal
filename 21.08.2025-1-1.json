@@ -1,0 +1,25 @@
+{
+    "name": "Adam Johnson",
+    "age": 22,
+    "address": {
+        "street": "Charles Junction",
+        "city": "Lindseyport",
+        "state": "Pennsylvania",
+        "zip": "59245"
+    },
+    "contact": {
+        "phone": "+1-325-927-9261x9170",
+        "servicePhone": "800518895"
+    },
+    "birthday": "2003-07-04",
+    "ip": "131.13.44.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting industry each TV pretty base. Avoid cultural whose natural certainly.\nFormer well teach. Soon unit student cell wish. Performance brother structure describe responsibility chance.",
+        "bio": "Usually receive history name law natural for. Threat natural report election concern politics nature. Buy citizen six organization.\nSea within animal certain. Sing represent participant."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
