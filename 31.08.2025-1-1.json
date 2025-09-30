@@ -1,0 +1,25 @@
+{
+    "name": "Michele Carroll MD",
+    "age": 64,
+    "address": {
+        "street": "Parsons Circle",
+        "city": "East Victoria",
+        "state": "North Dakota",
+        "zip": "59781"
+    },
+    "contact": {
+        "phone": "(683)329-8195",
+        "servicePhone": "800184097"
+    },
+    "birthday": "1961-16-06",
+    "ip": "178.238.152.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Team sound southern make worry. Condition fly research increase Mrs recent improve final. Meet result break even lose.\nWest individual term tough look least matter.",
+        "bio": "Spring in place worker else understand one. Light edge technology buy. By capital outside sound find.\nYou all short. Yeah light may everyone wall."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

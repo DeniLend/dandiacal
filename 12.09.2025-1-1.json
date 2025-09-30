@@ -1,0 +1,25 @@
+{
+    "name": "Heather Wright",
+    "age": 47,
+    "address": {
+        "street": "John Creek",
+        "city": "East Scott",
+        "state": "Indiana",
+        "zip": "10997"
+    },
+    "contact": {
+        "phone": "(500)420-1550x8688",
+        "servicePhone": "800928899"
+    },
+    "birthday": "1978-27-06",
+    "ip": "2.98.207.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Try fear often himself avoid. Choose measure important budget traditional. Hard seat himself gas seat edge. Summer beautiful lawyer drop soldier including.",
+        "bio": "To none tell. Bed key hold city option store. Morning common building blood weight.\nTable focus hotel rule weight become take. Unit fall particular affect rich ago participant call."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
