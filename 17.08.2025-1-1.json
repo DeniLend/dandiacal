@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Lee",
+    "age": 64,
+    "address": {
+        "street": "Strickland Island",
+        "city": "Nelsonstad",
+        "state": "Iowa",
+        "zip": "50670"
+    },
+    "contact": {
+        "phone": "(602)469-5228x6832",
+        "servicePhone": "800859933"
+    },
+    "birthday": "1961-03-04",
+    "ip": "23.16.23.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Include professor recognize seek. They item note still approach accept play.\nDeal condition win eye in player ready. Case board kid machine.\nExpert probably start region.",
+        "bio": "Claim care tend. Action ground treatment send million after."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
