@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Fisher",
+    "age": 90,
+    "address": {
+        "street": "Bell Underpass",
+        "city": "East Stephanie",
+        "state": "North Carolina",
+        "zip": "94177"
+    },
+    "contact": {
+        "phone": "+1-775-672-1335x399",
+        "servicePhone": "800144874"
+    },
+    "birthday": "1935-11-04",
+    "ip": "30.120.111.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss question leave Congress. Likely room church point democratic whatever. Type concern boy such how big.",
+        "bio": "Bad operation trouble education hair public tend. Speak owner risk major. Cost control natural there."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
