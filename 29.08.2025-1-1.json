@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Middleton",
+    "age": 84,
+    "address": {
+        "street": "Allen Ridges",
+        "city": "South Alexisview",
+        "state": "Hawaii",
+        "zip": "20978"
+    },
+    "contact": {
+        "phone": "(824)664-3446x6998",
+        "servicePhone": "800536471"
+    },
+    "birthday": "1941-06-10",
+    "ip": "67.63.204.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional look former put over describe source. Fund modern necessary mother.\nAround hospital than local information. Debate seven line machine.",
+        "bio": "Read good realize drop. Black finally increase two color.\nTax popular worry learn enter buy. Fund wife use order themselves we. Report position continue culture direction about value."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
