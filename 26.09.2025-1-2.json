@@ -1,0 +1,25 @@
+{
+    "name": "John Brown",
+    "age": 47,
+    "address": {
+        "street": "Brown Parks",
+        "city": "Branchmouth",
+        "state": "Maine",
+        "zip": "03695"
+    },
+    "contact": {
+        "phone": "001-877-384-6321",
+        "servicePhone": "800090557"
+    },
+    "birthday": "1978-04-07",
+    "ip": "79.161.251.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Perhaps night mission high style seek. Decide when whatever plan war right list.\nEmployee decide while guy. Radio somebody left. Concern candidate stand chair road.",
+        "bio": "None fire raise many. Decade article cell seat hope. Guess lay former sea. Meeting record message whatever former church east."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
