@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Murphy",
+    "age": 108,
+    "address": {
+        "street": "Hensley Hills",
+        "city": "Christopherborough",
+        "state": "New York",
+        "zip": "25992"
+    },
+    "contact": {
+        "phone": "630-909-3928x293",
+        "servicePhone": "800303882"
+    },
+    "birthday": "1917-15-04",
+    "ip": "222.217.88.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Star start much group make public under. Then two director may. Water everyone mother sense listen.",
+        "bio": "Anyone bit future thought must let. Bar system happy may letter chance move."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
